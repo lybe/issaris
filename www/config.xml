@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "gr.overmedia.athens-lift1"
+        id        = "gr.overmedia.issaris-lift1"
         version   = "1.0.0">
 
-    <name>Athens-Lift</name>
+    <name>Issaris-Lift</name>
 
     <description>
-        Athens-Lift Alarm
+        Issaris-Lift Alarm
     </description>
 
     <author href="http://overmedia.gr/" email="info@overmedia.gr">
